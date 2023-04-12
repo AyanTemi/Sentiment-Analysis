@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Web Scrapimg and Sentiment Analysis Project
+Web ScrapiNg and Sentiment Analysis Project
